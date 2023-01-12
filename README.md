@@ -94,6 +94,15 @@ If you want to run your tracker, you have to make sure it inherits the class ```
     python export_trek150_results_for_challenge.py
     ```
 
+## Implement and test your tracker
+The exemplar scripts to implement your tracker according the toolkit and to run the experiments are given in the files
+```
+tracker.py
+evaluate_trek150_for_challenge.py
+export_trek150_results_for_challenge.py
+```
+of this repository.
+
 
 ### Citing
 When using the code, please reference:
